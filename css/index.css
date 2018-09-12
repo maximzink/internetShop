@@ -1,0 +1,6 @@
+.carousel-item {
+    min-height: 626px;
+}
+.product-list article {
+    max-width: 18rem;
+}
